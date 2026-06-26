@@ -1,0 +1,6 @@
+cd "D:\MyCProject\教务系统\链表版"
+gcc -o school main.c teacher.c student.c course.c
+.\school.exe
+cd "D:\MyCProject\教务系统\数组版"
+gcc -o school main.c teacher.c student.c course.c
+.\school.exe
